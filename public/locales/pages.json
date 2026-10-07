@@ -1,0 +1,28 @@
+{
+  "pages": {
+    "en": {
+      "Alle Bestände sind in Ordnung.": "All stock levels are fine.",
+      "Artikel erfassen": "Add item",
+      "Artikel gesamt": "Total items",
+      "Artikel nach Kategorie": "Items by category",
+      "Auffüllen": "Restock",
+      "Bestand auffüllen": "Restock",
+      "Bestände sind in Ordnung — {0} braucht Aufmerksamkeit.": "Stock levels are fine — {0} needs attention.",
+      "Defekt / in Reparatur": "Defective / in repair",
+      "Ersten Artikel aufnehmen": "Add first item",
+      "Kategorie": "Category",
+      "Keine Artikel für diese Auswahl.": "No items for this selection.",
+      "Mehr anzeigen ({0} weitere)": "Show more ({0} more)",
+      "Name, Standort, Lieferant …": "Name, location, supplier …",
+      "Noch kein Anschaffungsdatum erfasst.": "No purchase date recorded yet.",
+      "Noch keine Artikel im Lager. Starte mit dem ersten Eintrag.": "No items in stock yet. Start with the first entry.",
+      "Richte dein Lager ein — erfasse den ersten Artikel.": "Set up your warehouse — add your first item.",
+      "Zuletzt angeschafft": "Recently purchased",
+      "{0} Artikel unter Mindestbestand": "{0} items below minimum stock",
+      "{0} auffüllen": "Restock {0}",
+      "{0} ist bzw. sind knapp — Zeit nachzubestellen.": "{0} low on stock — time to reorder.",
+      "{0} — Bestand auf {1} aufgefüllt": "{0} — Stock restocked to {1}"
+    }
+  },
+  "v": 1
+}

@@ -1,0 +1,27 @@
+{
+  "entities": {
+    "Kategorien": {
+      "placeholders_set": 2,
+      "defaults_keys": [],
+      "computed_keys": [],
+      "reason": "Reine Stammdaten ohne numerische Felder, daher keine Formeln oder Standardwerte."
+    },
+    "Lieferanten": {
+      "placeholders_set": 9,
+      "defaults_keys": [],
+      "computed_keys": [],
+      "reason": "Reine Stammdaten ohne numerische Felder oder Datumsfelder, daher keine Formeln und keine Standardwerte."
+    },
+    "Inventar": {
+      "placeholders_set": 12,
+      "defaults_keys": [
+        "menge",
+        "einheit",
+        "zustand",
+        "anschaffungsdatum"
+      ],
+      "computed_keys": [],
+      "reason": "Keine Formel, da Menge und Anschaffungspreis keine Berechnungskette bilden und kein Preis über eine Verknüpfung erreichbar ist."
+    }
+  }
+}

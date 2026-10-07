@@ -1,0 +1,31 @@
+{
+  "KategorienDialog.tsx": {
+    "kategoriename": "z. B. Elektrowerkzeuge",
+    "beschreibung": "Was gehört in diese Kategorie?"
+  },
+  "LieferantenDialog.tsx": {
+    "firmenname": "z. B. Müller Werkzeuge GmbH",
+    "ansprechpartner_vorname": "z. B. Anna",
+    "ansprechpartner_nachname": "z. B. Müller",
+    "email": "z. B. info@mueller-werkzeuge.de",
+    "webseite": "z. B. https://www.beispiel.de",
+    "strasse": "z. B. Hauptstraße",
+    "hausnummer": "z. B. 12a",
+    "plz": "z. B. 80331",
+    "ort": "z. B. München"
+  },
+  "InventarDialog.tsx": {
+    "artikelname": "z. B. Akkuschrauber",
+    "artikelnummer": "z. B. ART-2026-001",
+    "seriennummer": "z. B. SN-48213907",
+    "kategorie": "Welche Kategorie?",
+    "menge": "z. B. 10",
+    "mindestbestand": "z. B. 3",
+    "einheit": "z. B. Stück, Liter",
+    "standort": "z. B. Regal B2",
+    "anschaffungsdatum": "Wann wurde es gekauft?",
+    "anschaffungspreis": "z. B. 49,90",
+    "lieferant": "Welcher Lieferant?",
+    "notizen": "Besonderheiten zum Artikel"
+  }
+}
