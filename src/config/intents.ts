@@ -20,6 +20,7 @@
 import type { ComponentType } from 'react';
 
 // <custom:intent-imports>
+import { IconPackageImport, IconAdjustments } from '@tabler/icons-react';
 // </custom:intent-imports>
 
 export interface IntentLink {
@@ -42,6 +43,8 @@ export interface IntentLink {
 
 export const INTENTS: IntentLink[] = [
   // <custom:intents>
+  { path: '/intents/artikel-aufnehmen', label: { de: 'Artikel aufnehmen', en: 'Add item' }, icon: IconPackageImport, description: 'Neuen Artikel mit Kategorie und Lieferant erfassen' },
+  { path: '/intents/bestand-korrigieren', label: { de: 'Bestand korrigieren', en: 'Adjust stock' }, icon: IconAdjustments, description: 'Menge, Standort oder Zustand eines Artikels anpassen' },
   // </custom:intents>
 ];
 
@@ -52,7 +55,7 @@ export const INTENTS: IntentLink[] = [
  * purpose — a scaffold update resets it to false (self-healing if Phase 2
  * never ran).
  */
-export const INTENTS_PENDING = true;
+export const INTENTS_PENDING = false;
 
 /**
  * When the Phase-1 bundle was deployed (ISO, set by the service together with
